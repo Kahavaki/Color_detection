@@ -1,2 +1,2 @@
 # Color_detection
-#1
+Kép feldolgozó program
